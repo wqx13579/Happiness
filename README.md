@@ -30,12 +30,9 @@ Happiness Data for 2015,2016 and 2017 from Kaggle:
 ## 8. *How to test the model:*
 
 ## 9. *Timeline:*
-Dataset and motivation Research Questions  0 weeks
-
-Data cleanup                               1 weeks
-
-Modelling activity/evaluation and findings 2 weeks
-
-Statistical Summary                        2 weeks
-
-Main visualization                         2 weeks  
+Dataset and motivation Research Questions | 0 weeks
+---|---
+Data cleanup       |                        1 weeks
+Modelling activity/evaluation and findings | 2 weeks
+Statistical Summary            |            2 weeks
+Main visualization             |            2 weeks  
