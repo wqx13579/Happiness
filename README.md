@@ -22,10 +22,20 @@ Happiness Data for 2015,2016 and 2017 from Kaggle:
 ## 5. *Literature Review(if any):*
 
 ## 6. *Work before build model:*
-
+### We need to clean up the data. The reason is that some attributes we do not need to use so we need to remove these data. We need to have some hypothesis . For example, Is GDP per Capita affect the happiness and what is the future result of GDP per Capita related to happiness.
 
 ## 7. *Predictive Task and model detail, model evaluation and selection strategy:*
+### We want to use the existence data to predict the future result. We wish to use linear regression to create the model. We wish to find what is affect the happiness so we wish to use GDP per Capita, family wellness, health conditions, freedom and some other factors to predict which factor will affect the happiness more in the future.
 
 ## 8. *How to test the model:*
 
 ## 9. *Timeline:*
+Dataset and motivation Research Questions  0 weeks
+
+Data cleanup                               1 weeks
+
+Modelling activity/evaluation and findings 2 weeks
+
+Statistical Summary                        2 weeks
+
+Main visualization                         2 weeks  
