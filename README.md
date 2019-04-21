@@ -8,7 +8,7 @@
 ### The purpose of this study is to understand what are the main factors making people happy, so we can commit more energy on those main factors.
 
 ## 3. *Libraries and Tools needed:*
-### Statistical testing, Cloud computing basics(AWS EC2, S3, IAM etc.). We need to learn: Stats model for linear regression, statsmodels and sklearn for logistic regression, and model evaluation and selection.
+### Statistical testing, Cloud computing basics(AWS EC2, S3, IAM etc.). We need to learn the Stats model for linear regression, statsmodels and sklearn for logistic regression, and model evaluation and selection.
 
 ## 4. *Data Collection Details:*
 Happiness Data for 2015,2016 and 2017 from Kaggle:
@@ -22,6 +22,7 @@ Happiness Data for 2015,2016 and 2017 from Kaggle:
 ## 5. *Literature Review(if any):*
 
 ## 6. *Work before build model:*
+
 
 ## 7. *Predictive Task and model detail, model evaluation and selection strategy:*
 
