@@ -1,5 +1,9 @@
 # Happiness Project Proposal
 
+## The final version of our jupyter notebook can be found at
+[Happiness Analysis Project](https://mybinder.org/v2/gh/wqx13579/Happiness/master?filepath=Happiness%20Analysis.ipynb)
+
+
 ## 1. *Team Members: Qingxu Wang, Zening Li*
 
 ## 2.*Problem and Motivation:*
